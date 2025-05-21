@@ -1,1 +1,13 @@
-[]
+{
+    "87654321": {
+        "type": "VISA",
+        "bank": "Banco Nacion",
+        "number": "87654321",
+        "limit": 28800,
+        "client": {
+            "dni": "12345678",
+            "firstName": "Juan",
+            "lastName": "Perez"
+        }
+    }
+}
